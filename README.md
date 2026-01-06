@@ -63,6 +63,9 @@ Data was cleaned and transformed to ensure accuracy and consistency before analy
   - Data Modeling – Relationships, star schema design
 
  ## Dashboard
+ <img width="956" height="512" alt="image" src="https://github.com/user-attachments/assets/89106af1-70cc-4709-9180-af12ad6e89fa" />
+ <img width="960" height="509" alt="image" src="https://github.com/user-attachments/assets/1204d592-6b21-43e7-acdd-1f471358725f" />
+ <img width="960" height="509" alt="image" src="https://github.com/user-attachments/assets/af715517-c90f-4394-94a1-66349ae8ac76" />
 
  ## Conclusion:
 The Bank Loan Analysis Project successfully demonstrates how data analytics can support smarter lending decisions by transforming raw loan data into meaningful insights. Through interactive dashboards and KPI tracking, the project highlights key trends in loan performance, borrower behavior, and default risk. The analysis enables stakeholders to identify high-risk segments, monitor portfolio health, and improve overall operational efficiency. This project showcases strong skills in data analysis, SQL, Power BI, DAX, and business-focused insight generation, making it a valuable real-world financial analytics solution.
